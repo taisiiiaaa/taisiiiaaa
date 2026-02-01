@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=32&letterSpacing=1px&duration=7000&pause=1000&color=00FF7F&center=true&width=550&lines=Hi%2C+I%E2%80%99m+Taisiia+%E2%80%94+learning+frontend+%26+loving+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&letterSpacing=1px&duration=7000&pause=1000&color=00FF7F&center=true&width=550&lines=Hi%2C+I%E2%80%99m+Taisiia+%E2%80%94+learning+frontend+%26+loving+it)](https://git.io/typing-svg)
 
 
 ## About Me
