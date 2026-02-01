@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&letterSpacing=1px&duration=7000&pause=1000&color=00FF7F&center=true&width=550&lines=Hi%2C+I%E2%80%99m+Taisiia+%E2%80%94+learning+frontend+%26+loving+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=32&letterSpacing=1px&duration=7000&pause=1000&color=00FF7F&center=true&width=550&lines=Hi%2C+I%E2%80%99m+Taisiia+%E2%80%94+learning+frontend+%26+loving+it)](https://git.io/typing-svg)
+
+
+## About Me
+**Junior Frontend Developer** with a strong focus on clean UI and maintainable, scalable code. <br>
+Currently deepening my knowledge of *React* and *TypeScript* through hands-on projects. <br>
+Looking to grow in a collaborative team and contribute to real-world products.
+
 
 ## My Skill Set  
 
